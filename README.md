@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../easy-banking-app/src/images/Screen%20Shot%202023-12-08%20at%2011.41.09%20AM.png)
+![](../images/Screen%20Shot%202023-12-08%20at%2011.41.09%20AM.png)
 
 
 
